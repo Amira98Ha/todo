@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+you can create new ToDo task by clicking on + icon and after it done you can click the check box in the right,
+also you can delete the task by click and hold for a sec the check box.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
